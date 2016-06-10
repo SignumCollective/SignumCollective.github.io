@@ -1,0 +1,26 @@
+.looking.for.signum.collective.nag {
+    display: block;
+}
+
+.IPA {
+    font-family: Gentium, GentiumAlt, DejaVu Sans, Segoe UI, Lucida Grande, Charis SIL, Doulos SIL, TITUS Cyberbit Basic, Code2000, Lucida Sans Unicode, sans-serif;
+}
+
+.ui.header {
+    font-weight: 400;
+}
+.ui.white.text {
+    color: #FFFFFF;
+}
+.ui.blue.text {
+    color: #34495E;
+}
+.ui.green.text {
+    color: #80BA8E;
+}
+.ui.nag .description {
+    font-weight: 400;
+}
+.ui.nag.red {
+    background-color: #DB2828;
+}

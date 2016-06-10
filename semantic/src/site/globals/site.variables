@@ -1,0 +1,10 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@primaryColor: @blue;
+@secondaryColor: @green;
+@blue: #34495E;
+@green: #80BA8E;
+@lightGreen: lighten(@green, 10);
+@lightBlue: lighten(@blue, 10);
