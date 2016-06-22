@@ -25,7 +25,10 @@
     background-color: #DB2828;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 1155px) {
+  .ui.header > img.ui.huge.image {
+    width: 100%;
+  }
   .ui.header > .content {
     width: 100%;
     display: block;
