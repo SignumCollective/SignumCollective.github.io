@@ -36,12 +36,7 @@
   }
   .content > div.ui.buttons {
     width: 50%;
-    margin: 0 auto;
-  }
-}
-
-@media only screen and (max-width: 512px) {
-  .content > div.ui.buttons {
-    margin: 0;
+    display: block;
+    margin: auto;
   }
 }
